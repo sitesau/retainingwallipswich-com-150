@@ -1,0 +1,22 @@
+{
+  "wheel_id": 515,
+  "structure": "umbrella",
+  "slug": "retainingwallipswich-com-150",
+  "project": "retaining-walls-ipswich-common-mistakes-7a854f07099931b66c98e76",
+  "parent_t1_ref": "retainingwallipswich.com-005",
+  "node_role": "buffer",
+  "money_target": "retainingwallipswich.com.au",
+  "primary_kw": "retaining walls ipswich common mistakes",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-ipswich-common-mistakes-7a854f07099931b66c98e76/",
+  "tier": "T2",
+  "writeback_nonce": "9720031fc2ef7361",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallipswich.com-005/retaining-walls-ipswich.html",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
